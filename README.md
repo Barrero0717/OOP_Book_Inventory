@@ -1,7 +1,4 @@
-# OOP_Book_Inventory
-Book inventory desktop GUI database app using Python and tkinter library with an OOP model
-
-# Book_Inventory 
+# Book Inventory 
 _Book inventory desktop GUI database app using Python, tkinter library and SQLite with an OOP model._
 
 ## Getting Started  🚀
@@ -21,7 +18,7 @@ python --version
 _Clone this repository to your local machine. To do this, run this command inside your terminal:_
 
 ```
-git clone https://github.com/<your-github-username>/Book_Inventory.git
+git clone https://github.com/<your-github-username>/OOP_Book_Inventory.git
 ```
 
 ## Running the app ⚙️
