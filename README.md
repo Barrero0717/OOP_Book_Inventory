@@ -29,7 +29,7 @@ _After clone the repository, just run this command into the terminal:_
 python frontend.py
 ```
 
-_and you will must see this wondow:_
+_and you will must see this window:_
 
 ![image](https://user-images.githubusercontent.com/66132335/158262640-f8886ac4-a172-451b-b1fd-96de1baf1253.png)
 
